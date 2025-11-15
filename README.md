@@ -4,6 +4,10 @@ A collection of code, examples, and utilities for working with the Mistral famil
 
 If you're here to quickly experiment with Mistral-style models for research or prototyping, this README will walk you through common tasks: setup, loading models for inference, fine-tuning pointers, evaluation, and best practices.
 
+## This repository contains 2 files 
+- offline_llm.ipynb -> having code for running Mistral LLM locally (you have to download its model form Hugging face , then you able to use it offline )
+- online_llm.ipynb  -> it uses Mistral's API for getting response online (you can get this key from Mistral's official site)
+
 > NOTE: This repository is a workspace template. Adjust commands, paths, and configuration to match the actual files in this repo.
 
 Table of contents
